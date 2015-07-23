@@ -56,5 +56,5 @@ h2.vegetable {
 
 .menu > li {
   font-size: 13px;
-  : ;
+  list-style-type : none ;
 }
